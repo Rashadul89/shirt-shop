@@ -1,0 +1,10 @@
+.singleTshirt-container{
+    height: 450px;
+    margin: 15px;
+    padding: 15px;
+    border: 1px solid rgb(150, 150, 233);
+    border-radius: 5px;
+}
+.singleTshirt-container img{
+    height: 250px;
+}
